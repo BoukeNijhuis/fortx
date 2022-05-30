@@ -1,6 +1,6 @@
 Overview
 
-- Breakpoints
+- Advanced breakpoints
 - Evaluating expressions
 - Hot code swapping
 - Remote debugging

@@ -1,9 +1,11 @@
-Breakpoints
+Advanced breakpoints
 
 - Line
 - Options
     - Right click
-
-    - Middle click -> suspend
+    - Enabled
+    - Suspend
+    - Condition
+    - Logging
 - Move
 - Restore
