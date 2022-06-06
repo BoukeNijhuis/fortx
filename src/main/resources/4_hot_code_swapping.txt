@@ -1,7 +1,7 @@
 Hot code swapping
 
-- Edit value
-- Advanced example
+- Drop/reset Frame
+- Change code
 - Reload Changed Classes
 - Limitations
 - Workaround

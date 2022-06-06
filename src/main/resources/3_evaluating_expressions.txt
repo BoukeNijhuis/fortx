@@ -2,5 +2,5 @@ Evaluating expressions
 
 - Quick Evaluate Expression
 - Evaluate Expression
-- Inline watches
+- Inline watches?
 - Stream Debugger
